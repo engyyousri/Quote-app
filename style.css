@@ -1,0 +1,18 @@
+h1{
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bold;
+}
+
+button{
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    padding:15px 40px ;
+    width: 200px;
+    height: 80px;
+}
+
+button:hover{
+    background-color: navy;
+}
